@@ -19,6 +19,5 @@ public class DemoShipments {
         System.out.println("Weigth - shipment2: " + shipment2.weigth);
         System.out.println("Delivert cost: $" + shipment2.cost);
         System.out.println();
-
     }
 }
